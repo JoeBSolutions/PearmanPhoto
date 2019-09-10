@@ -1,0 +1,11 @@
+#demo{
+    height: 600px;
+}
+
+.carousel-item {
+    height: 600px;
+}
+
+#thumbnails {
+    border: 2px black solid;
+}
